@@ -1,4 +1,4 @@
-# ML-DDos-detection-syn-flood
+# ML-DDoS-detection-syn-flood
 
 Hi there, I'm AUN
 
