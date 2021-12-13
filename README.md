@@ -11,3 +11,4 @@ information
 
 
 DDOS-TEST.csv this file i've collected from my college server-side
+DATA1.csv my made this file to train my model
