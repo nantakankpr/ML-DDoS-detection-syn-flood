@@ -8,3 +8,6 @@ information
 -Machine learning (KNN, RF, DT)
 -Syn flood (Hping3)
 -network traffic capture (wireshark)
+
+
+DDOS-TEST.csv this file i've collected from my college server-side
