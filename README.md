@@ -1,6 +1,7 @@
 # ML-DDos-detection-syn-flood-
 
 Hi there, I'm AUN
+
 This is Machine learning project was created to detect the DDoS in the type of syn flood 
 this project is suited for my college server-side If you want to develop this project please collect new data from your server-side
 
